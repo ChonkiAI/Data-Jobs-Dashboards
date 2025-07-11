@@ -74,4 +74,4 @@ This Power BI dashboard simulates a real-world analytical workflow—from **data
 ---
 
 📺 **Special Thanks:**  
-Grateful for the excellent guidance from [How to Power BI](https://www.youtube.com/watch?v=FwjaHCVNBWA), whose tutorial made this project possible.
+Grateful for the excellent guidance from [Luke Barousse](https://www.youtube.com/watch?v=FwjaHCVNBWA), whose tutorial made this project possible.
